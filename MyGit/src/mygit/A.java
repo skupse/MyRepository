@@ -5,5 +5,7 @@ public class A {
 		System.out.println("Hello MyGit!");
 		System.out.println("Hello Git!");
 		System.out.println("This is the 2nd version.");
+		B b = new B();
+		b.sayHello("Everyone");
 	}
 }
